@@ -8,7 +8,7 @@ document.addEventListener('DOMContentLoaded', () => {
             menu_toggle_icon.setAttribute('name', 'close-outline') :
             menu_toggle_icon.setAttribute('name', 'menu-outline');
     });
-    // count-down-start
+    // count-down-starttt
     let days = document.querySelector('.days');
     let hours = document.querySelector('.hours');
     let minutes = document.querySelector('.minutes');
