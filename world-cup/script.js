@@ -100,6 +100,6 @@ async function fetchPoints() {
       });
     }, 1000);
   }
-}
+}s
 fetchPoints();
 //ali motahari
