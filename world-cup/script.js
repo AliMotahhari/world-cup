@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
         menu.classList.contains('active') ?
             menu_toggle_icon.setAttribute('name', 'close-outline') :
             menu_toggle_icon.setAttribute('name', 'menu-outline');
-    });
+    });/
     // count-down-starttt
     let days = document.querySelector('.days');
     let hours = document.querySelector('.hours');
